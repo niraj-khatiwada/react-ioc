@@ -1,7 +1,7 @@
 #root {
   padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
-
-/* Control Props Pattern */
-/* Props Getters Pattern */
-/*  State reducer pattern */
